@@ -2,7 +2,7 @@ version: 0.2
 phases:
   install:
     runtime-versions:
-      nodejas: 20
+      nodejs: 20
     commands:
       - npm install -g @angular/cli@17
 
